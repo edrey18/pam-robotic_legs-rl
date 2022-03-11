@@ -16,8 +16,8 @@ This project joins the work carried out during my two Master Thesis. Here you ca
 
 [2] [Piecewise Affine Modeling and Constrained Optimal Control for Pneumatic Artificial Muscle](https://ieeexplore.ieee.org/abstract/document/6484956) and [A switched system modeling approach for a Pneumatic Muscle Actuator](https://ieeexplore.ieee.org/abstract/document/6210042) have been used as the theoretical base to build the Pneumatic Artificial Muscle (PAM) model.
 
-[3][Festo Simulation Software](https://www.festo.com/us/en/) has been used for data generation to fit the used muscle model.
+[3] [Festo Simulation Software](https://www.festo.com/us/en/) has been used for data generation to fit the used muscle model.
 
-[4][Biomechanics and Motor Control of Human Movement](https://books.google.es/books?hl=es&lr=&id=_bFHL08IWfwC&oi=fnd&pg=PR13&dq=Biomechanics+and+Motor+Control+of+Human+Movement&ots=Jnky9rf8T5&sig=lgIWU_ic3B5i69Sj7-fgEBmlC1Q&redir_esc=y#v=onepage&q=Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement&f=false) has been followed for the human dimension design of the robotic legs.
+[4] [Biomechanics and Motor Control of Human Movement](https://books.google.es/books?hl=es&lr=&id=_bFHL08IWfwC&oi=fnd&pg=PR13&dq=Biomechanics+and+Motor+Control+of+Human+Movement&ots=Jnky9rf8T5&sig=lgIWU_ic3B5i69Sj7-fgEBmlC1Q&redir_esc=y#v=onepage&q=Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement&f=false) has been followed for the human dimension design of the robotic legs.
 
 
